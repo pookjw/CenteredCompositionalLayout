@@ -1,2 +1,2 @@
-# CenteredCompositionalLayout
+# CompositionalLayoutFlowGroup
 UICollectionViewCompositionalLayout + Flow Layout
